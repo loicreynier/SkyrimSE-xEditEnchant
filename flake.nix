@@ -41,7 +41,6 @@
           editorconfig-checker.enable = true;
           prettier.enable = true;
           statix.enable = true;
-          stylua.enable = true;
           typos.enable = true;
         };
       };
