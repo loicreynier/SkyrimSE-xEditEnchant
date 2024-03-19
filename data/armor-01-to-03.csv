@@ -1,0 +1,32 @@
+Alteration01;EnchArmorFortifyAlteration01 "Fortify Alteration" [ENCH:0007A107];of Minor Alteration
+Alteration02;EnchArmorFortifyAlteration02 "Fortify Alteration" [ENCH:000AD49F];of Alteration
+Alteration03;EnchArmorFortifyAlteration03 "Fortify Alteration" [ENCH:000AD4A0];of Major Alteration
+Conjuration01;EnchArmorFortifyConjuration01 "Fortify Conjuration" [ENCH:0007A10A];of Minor Conjuring
+Conjuration02;EnchArmorFortifyConjuration02 "Fortify Conjuration" [ENCH:000AD453];of Conjuring
+Conjuration03;EnchArmorFortifyConjuration03 "Fortify Conjuration" [ENCH:000AD454];of Major Conjuring
+Destruction01;EnchArmorFortifyDestruction01 "Fortify Destruction" [ENCH:0007A10B];of Minor Destruction
+Destruction02;EnchArmorFortifyDestruction02 "Fortify Destruction" [ENCH:000AD458];of Destruction
+Destruction03;EnchArmorFortifyDestruction03 "Fortify Destruction" [ENCH:000AD459];of Major Destruction
+Health01;EnchArmorFortifyHealth01 "Fortify Health" [ENCH:00049509];of Minor Health
+Health02;EnchArmorFortifyHealth02 "Fortify Health" [ENCH:000AD461];of Health
+Health03;EnchArmorFortifyHealth03 "Fortify Health" [ENCH:000AD462];of Major Health
+HealthRegen03;EnchArmorFortifyHealRate03 "Fortify Healing Rate" [ENCH:000AD460];of Mending
+HeavyArmor01;EnchArmorFortifyHeavyArmor01 "Fortify Heavy Armor" [ENCH:0007A10E];of the Minor Knight
+HeavyArmor02;EnchArmorFortifyHeavyArmor02 "Fortify Heavy Armor" [ENCH:000AD463];of the Knight
+HeavyArmor03;EnchArmorFortifyHeavyArmor03 "Fortify Heavy Armor" [ENCH:000AD464];of the Major Knight
+Illusion01;EnchArmorFortifyIllusion01 "Fortify Illusion" [ENCH:0007A10F];of Minor Illusion
+Illusion02;EnchArmorFortifyIllusion01 "Fortify Illusion" [ENCH:0007A10F];of Illusion
+Illusion03;EnchArmorFortifyIllusion03 "Fortify Illusion" [ENCH:000AD466];of Major Illusion
+LightArmor01;EnchArmorFortifyLightArmor01 "Fortify Light Armor" [ENCH:0007A110];of the Minor Squire
+LightArmor02;EnchArmorFortifyLightArmor02 "Fortify Light Armor" [ENCH:000AD467];of the Squire
+LightArmor03;EnchArmorFortifyLightArmor03 "Fortify Light Armor" [ENCH:000AD468];of the Major Squire
+ResistFrost01;EnchArmorResistFrost01 "Resist Frost" [ENCH:0004950C];of Resist Frost
+ResistFrost02;EnchArmorResistFrost02 "Resist Frost" [ENCH:000AD485];of Warning Frost
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+Restoration01;EnchArmorFortifyRestoration01 "Fortify Restoration" [ENCH:0007A116];of Minor Restoration
+Restoration02;EnchArmorFortifyRestoration02 "Fortify Restoration" [ENCH:000AD475];of Restoration
+Restoration03;EnchArmorFortifyRestoration03 "Fortify Restoration" [ENCH:000AD476];of Major Restoration
+Stamina01;EnchArmorFortifyStamina01 "Fortify Stamina" [ENCH:0004950A];of Minor Stamina
+Stamina02;EnchArmorFortifyStamina02 "Fortify Stamina" [ENCH:000AD47D];of Stamina
+Stamina03;EnchArmorFortifyStamina03 "Fortify Stamina" [ENCH:000AD47E];of Major Stamina
+StaminaRegen03;EnchArmorFortifyStaminaRate03 "Fortify Stamina Regen" [ENCH:000AD480];of Invigoration

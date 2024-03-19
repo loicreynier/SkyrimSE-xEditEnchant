@@ -1,0 +1,115 @@
+Alchemy01;EnchArmorFortifyAlchemy01 "Fortify Alchemy" [ENCH:0008B65B];of Minor Alchemy
+Alchemy02;EnchArmorFortifyAlchemy02 "Fortify Alchemy" [ENCH:0008B65D];of Alchemy
+Alchemy03;EnchArmorFortifyAlchemy03 "Fortify Alchemy" [ENCH:0008B65E];of Major Alchemy
+Alchemy04;EnchArmorFortifyAlchemy04 "Fortify Alchemy" [ENCH:0008B65F];of Eminent Alchemy
+Alchemy05;EnchArmorFortifyAlchemy05 "Fortify Alchemy" [ENCH:0008B660];of Extreme Alchemy
+Alchemy06;EnchArmorFortifyAlchemy06 "Fortify Alchemy" [ENCH:0008B661];of Peerless Alchemy
+Barter01;EnchArmorFortifySpeechcraft01 "Fortify Barter" [ENCH:0007A119];of Minor Haggling
+Barter02;EnchArmorFortifySpeechcraft02 "Fortify Barter" [ENCH:000AD47B];of Haggling
+Barter03;EnchArmorFortifySpeechcraft03 "Fortify Barter" [ENCH:000AD47C];of Major Haggling
+Barter04;EnchArmorFortifySpeechcraft04 "Fortify Barter" [ENCH:000BE01E];of Eminent Haggling
+Barter05;EnchArmorFortifySpeechcraft05 "Fortify Barter" [ENCH:000BE01F];of Extreme Haggling
+Barter06;EnchArmorFortifySpeechcraft06 "Fortify Barter" [ENCH:000BE020];of Peerless Haggling
+Destruction01;EnchArmorFortifyDestruction01 "Fortify Destruction" [ENCH:0007A10B];of Minor Destruction
+Destruction02;EnchArmorFortifyDestruction02 "Fortify Destruction" [ENCH:000AD458];of Destruction
+Destruction03;EnchArmorFortifyDestruction03 "Fortify Destruction" [ENCH:000AD459];of Major Destruction
+Destruction04;EnchArmorFortifyDestruction04 "Fortify Destruction" [ENCH:000AD45A];of Eminent Destruction
+Destruction05;EnchArmorFortifyDestruction05 "Fortify Destruction" [ENCH:000AD45B];of Extreme Destruction
+Destruction06;EnchArmorFortifyDestruction06 "Fortify Destruction" [ENCH:000AD45C];of Peerless Destruction
+HealthRegen03;EnchArmorFortifyHealRate03 "Fortify Healing Rate" [ENCH:000AD460];of Mending
+HealthRegen04;EnchArmorFortifyHealRate04 "Fortify Healing Rate" [ENCH:0007A10D];of Revival
+HealthRegen05;EnchArmorFortifyHealRate05 "Fortify Healing Rate" [ENCH:000AD45F];of Regeneration
+HealthRegen06;EnchArmorFortifyHealRate06 "Fortify Healing Rate" [ENCH:000AD493];of Remedy
+HeavyArmor01;EnchArmorFortifyHeavyArmor01 "Fortify Heavy Armor" [ENCH:0007A10E];of the Minor Knight
+HeavyArmor02;EnchArmorFortifyHeavyArmor02 "Fortify Heavy Armor" [ENCH:000AD463];of the Knight
+HeavyArmor03;EnchArmorFortifyHeavyArmor03 "Fortify Heavy Armor" [ENCH:000AD464];of the Major Knight
+HeavyArmor04;EnchArmorFortifyHeavyArmor04 "Fortify Heavy Armor" [ENCH:000BDFFF];of the Eminent Knight
+HeavyArmor05;EnchArmorFortifyHeavyArmor05 "Fortify Heavy Armor" [ENCH:000BE000];of the Extreme Knight
+HeavyArmor06;EnchArmorFortifyHeavyArmor06 "Fortify Heavy Armor" [ENCH:000BE001];of the Peerless Knight
+LightArmor01;EnchArmorFortifyLightArmor01 "Fortify Light Armor" [ENCH:0007A110];of the Minor Squire
+LightArmor02;EnchArmorFortifyLightArmor02 "Fortify Light Armor" [ENCH:000AD467];of the Squire
+LightArmor03;EnchArmorFortifyLightArmor03 "Fortify Light Armor" [ENCH:000AD468];of the Major Squire
+LightArmor04;EnchArmorFortifyLightArmor04 "Fortify Light Armor" [ENCH:000BE005];of the Extreme Squire
+LightArmor05;EnchArmorFortifyLightArmor05 "Fortify Light Armor" [ENCH:000BE006];of the Eminent Squire
+LightArmor06;EnchArmorFortifyLightArmor06 "Fortify Light Armor" [ENCH:000BE007];of the Peerless Squire
+Lockpicking01;EnchArmorFortifyLockpicking01 "Fortify Lockpicking" [ENCH:0007A111];of Minor Lockpicking
+Lockpicking02;EnchArmorFortifyLockpicking02 "Fortify Lockpicking" [ENCH:000AD469];of Lockpicking
+Lockpicking03;EnchArmorFortifyLockpicking03 "Fortify Lockpicking" [ENCH:000AD46A];of Major Lockpicking
+Lockpicking04;EnchArmorFortifyLockpicking04 "Fortify Lockpicking" [ENCH:000BE008];of Eminent Lockpicking
+Lockpicking05;EnchArmorFortifyLockpicking05 "Fortify Lockpicking" [ENCH:000BE009];of Extreme Lockpicking
+Lockpicking06;EnchArmorFortifyLockpicking06 "Fortify Lockpicking" [ENCH:000BE00A];of Peerless Lockpicking
+Marksman01;EnchArmorFortifyMarksman01 "Fortify Archery" [ENCH:0007A113];of Minor Archery
+Marksman02;EnchArmorFortifyMarksman02 "Fortify Archery" [ENCH:000AD46F];of Archery
+Marksman03;EnchArmorFortifyMarksman03 "Fortify Archery" [ENCH:000AD470];of Major Archery
+Marksman04;EnchArmorFortifyMarksman04 "Fortify Archery" [ENCH:000BE00C];of Eminent Archery
+Marksman05;EnchArmorFortifyMarksman05 "Fortify Archery" [ENCH:000BE00D];of Extreme Archery
+Marksman06;EnchArmorFortifyMarksman06 "Fortify Archery" [ENCH:000BE00E];of Peerless Archery
+OneHanded01;EnchArmorFortifyOneHanded01 "Fortify One-Handed" [ENCH:0007A114];of Minor Wielding
+OneHanded02;EnchArmorFortifyOneHanded02 "Fortify One-Handed" [ENCH:000AD471];of Wielding
+OneHanded03;EnchArmorFortifyOneHanded03 "Fortify One-Handed" [ENCH:000AD472];of Major Wielding
+OneHanded04;EnchArmorFortifyOneHanded04 "Fortify One-Handed" [ENCH:000BE00F];of Eminent Wielding
+OneHanded05;EnchArmorFortifyOneHanded05 "Fortify One-Handed" [ENCH:000BE010];of Extreme Wielding
+OneHanded06;EnchArmorFortifyOneHanded06 "Fortify One-Handed" [ENCH:000BE011];of Peerless Wielding
+Pickpocket01;EnchArmorFortifyPickpocket01 "Fortify Pickpocket" [ENCH:0007A115];of Minor Deft Hands
+Pickpocket02;EnchArmorFortifyPickpocket02 "Fortify Pickpocket" [ENCH:000AD473];of Deft Hands
+Pickpocket03;EnchArmorFortifyPickpocket03 "Fortify Pickpocket" [ENCH:000AD474];of Major Deft Hands
+Pickpocket04;EnchArmorFortifyPickpocket04 "Fortify Pickpocket" [ENCH:000BE012];of Eminent Deft Hands
+Pickpocket05;EnchArmorFortifyPickpocket05 "Fortify Pickpocket" [ENCH:000BE013];of Extreme Deft Hands
+Pickpocket06;EnchArmorFortifyPickpocket06 "Fortify Pickpocket" [ENCH:000BE014];of Peerless Deft Hands
+ResistDisease01;EnchArmorResistDisease01 "Resist Disease" [ENCH:00100E62];of Disease Immunity
+ResistDisease02;EnchArmorResistDisease02 "Resist Disease" [ENCH:00100E63];of Disease Resistance
+ResistFire01;EnchArmorResistFire01 "Resist Fire" [ENCH:0004950B];of Resist Fire
+ResistFire02;EnchArmorResistFire02 "Resist Fire" [ENCH:000AD483];of Warning Fire
+ResistFire03;EnchArmorResistFire03 "Resist Fire" [ENCH:000AD484];of Dwindling Flames
+ResistFire04;EnchArmorResistFire04 "Resist Fire" [ENCH:000BE028];of Fire Suppression
+ResistFire05;EnchArmorResistFire05 "Resist Fire" [ENCH:000BE029];of Fire Abatement
+ResistFire06;EnchArmorResistFire06 "Resist Fire" [ENCH:000BE02A];of Firewalker
+ResistFrost01;EnchArmorResistFrost01 "Resist Frost" [ENCH:0004950C];of Resist Frost
+ResistFrost02;EnchArmorResistFrost02 "Resist Frost" [ENCH:000AD485];of Warning Frost
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+ResistFrost04;EnchArmorResistFrost04 "Resist Frost" [ENCH:000BE02B];of Frost Suppression
+ResistFrost05;EnchArmorResistFrost05 "Resist Frost" [ENCH:000BE02C];of Frost Abatement
+ResistFrost06;EnchArmorResistFrost06 "Resist Frost" [ENCH:000BE02D];of Warmth
+ResistMagic01;EnchArmorResistMagic01 "Resist Magic" [ENCH:000FC05B];of Resist Magic
+ResistMagic02;EnchArmorResistMagic02 "Resist Magic" [ENCH:000FC05C];of Warning Magic
+ResistMagic03;EnchArmorResistMagic03 "Resist Magic" [ENCH:000FC05D];of Dwindling Magic
+ResistMagic04;EnchArmorResistMagic04 "Resist Magic" [ENCH:000FC05E];of Magic Suppression
+ResistMagic05;EnchArmorResistMagic05 "Resist Magic" [ENCH:000FC05F];of Magic Abatement
+ResistMagic06;EnchArmorResistMagic06 "Resist Magic" [ENCH:000FC060];of Nullification
+ResistPoison01;EnchArmorResistPoison01 "Resist Poison" [ENCH:00100E5D];of Poison Immunity
+ResistPoison02;EnchArmorResistPoison02 "Resist Poison" [ENCH:00100E5E];of Poison Resistance
+ResistShock01;EnchArmorResistShock01 "Resist Shock" [ENCH:0004950D];of Resist Shock
+ResistShock02;EnchArmorResistShock02 "Resist Shock" [ENCH:000AD487];of Warning Shock
+ResistShock03;EnchArmorResistShock03 "Resist Shock" [ENCH:000AD488];of Dwindling Shock
+ResistShock04;EnchArmorResistShock04 "Resist Shock" [ENCH:000BE02E];of Shock Suppression
+ResistShock05;EnchArmorResistShock05 "Resist Shock" [ENCH:000BE02F];of Shock Abatement
+ResistShock06;EnchArmorResistShock06 "Resist Shock" [ENCH:000BE030];of Grounding
+Smithing01;EnchArmorFortifySmithing01 "Fortify Smithing" [ENCH:0007A117];of Minor Smithing
+Smithing02;EnchArmorFortifySmithing02 "Fortify Smithing" [ENCH:000AD477];of Smithing
+Smithing03;EnchArmorFortifySmithing03 "Fortify Smithing" [ENCH:000AD478];of Major Smithing
+Smithing04;EnchArmorFortifySmithing04 "Fortify Smithing" [ENCH:000BE018];of Eminent Smithing
+Smithing05;EnchArmorFortifySmithing05 "Fortify Smithing" [ENCH:000BE019];of Extreme Smithing
+Smithing06;EnchArmorFortifySmithing06 "Fortify Smithing" [ENCH:000BE01A];of Peerless Smithing
+Sneak01;EnchArmorFortifySneak01 "Fortify Sneak" [ENCH:0007A118];of Minor Sneaking
+Sneak02;EnchArmorFortifySneak02 "Fortify Sneak" [ENCH:000AD479];of Sneaking
+Sneak03;EnchArmorFortifySneak03 "Fortify Sneak" [ENCH:000AD47A];of Major Sneaking
+Sneak04;EnchArmorFortifySneak04 "Fortify Sneak" [ENCH:000BE01B];of Eminent Sneaking
+Sneak05;EnchArmorFortifySneak05 "Fortify Sneak" [ENCH:000BE01C];of Extreme Sneaking
+Sneak06;EnchArmorFortifySneak06 "Fortify Sneak" [ENCH:000BE01D];of Peerless Sneaking
+Stamina01;EnchArmorFortifyStamina01 "Fortify Stamina" [ENCH:0004950A];of Minor Stamina
+Stamina02;EnchArmorFortifyStamina02 "Fortify Stamina" [ENCH:000AD47D];of Stamina
+Stamina03;EnchArmorFortifyStamina03 "Fortify Stamina" [ENCH:000AD47E];of Major Stamina
+Stamina04;EnchArmorFortifyStamina04 "Fortify Stamina" [ENCH:000BE021];of Eminent Stamina
+Stamina05;EnchArmorFortifyStamina05 "Fortify Stamina" [ENCH:000BE022];of Extreme Stamina
+Stamina06;EnchArmorFortifyStamina06 "Fortify Stamina" [ENCH:000BE023];of Peerless Stamina
+StaminaRegen03;EnchArmorFortifyStaminaRate03 "Fortify Stamina Regen" [ENCH:000AD480];of Invigoration
+StaminaRegen04;EnchArmorFortifyStaminaRate04 "Fortify Stamina Regen" [ENCH:0007A11A];of Recuperation
+StaminaRegen05;EnchArmorFortifyStaminaRate05 "Fortify Stamina Regen" [ENCH:000AD47F];of Rejuvenation
+StaminaRegen06;EnchArmorFortifyStaminaRate06 "Fortify Stamina Regen" [ENCH:000BE024];of Renewal
+TwoHanded01;EnchArmorFortifyTwoHanded01 "Fortify Two-Handed" [ENCH:0007A11B];of Minor Sure Grip
+TwoHanded02;EnchArmorFortifyTwoHanded02 "Fortify Two-Handed" [ENCH:000AD481];of Sure Grip
+TwoHanded03;EnchArmorFortifyTwoHanded03 "Fortify Two-Handed" [ENCH:000AD482];of Major Sure Grip
+TwoHanded04;EnchArmorFortifyTwoHanded04 "Fortify Two-Handed" [ENCH:000BE025];of Eminent Sure Grip
+TwoHanded05;EnchArmorFortifyTwoHanded05 "Fortify Two-Handed" [ENCH:000BE026];of Extreme Sure Grip
+TwoHanded06;EnchArmorFortifyTwoHanded06 "Fortify Two-Handed" [ENCH:000BE027] ;of Peerless Sure Grip
+Waterbreathing01;EnchArmorWaterbreathing "Waterbreathing" [ENCH:00092A76];of Waterbreathing

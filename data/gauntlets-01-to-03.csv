@@ -1,0 +1,27 @@
+Alchemy01;EnchArmorFortifyAlchemy01 "Fortify Alchemy" [ENCH:0008B65B];of Minor Alchemy
+Alchemy02;EnchArmorFortifyAlchemy02 "Fortify Alchemy" [ENCH:0008B65D];of Alchemy
+Alchemy03;EnchArmorFortifyAlchemy03 "Fortify Alchemy" [ENCH:0008B65E];of Major Alchemy
+Alteration01;EnchArmorFortifyAlteration01 "Fortify Alteration" [ENCH:0007A107];of Minor Alteration
+Alteration02;EnchArmorFortifyAlteration02 "Fortify Alteration" [ENCH:000AD49F];of Alteration
+Alteration03;EnchArmorFortifyAlteration03 "Fortify Alteration" [ENCH:000AD4A0];of Major Alteration
+Conjuration01;EnchArmorFortifyConjuration01 "Fortify Conjuration" [ENCH:0007A10A];of Minor Conjuring
+Conjuration02;EnchArmorFortifyConjuration02 "Fortify Conjuration" [ENCH:000AD453];of Conjuring
+Conjuration03;EnchArmorFortifyConjuration03 "Fortify Conjuration" [ENCH:000AD454];of Major Conjuring
+Lockpicking01;EnchArmorFortifyLockpicking01 "Fortify Lockpicking" [ENCH:0007A111];of Minor Lockpicking
+Lockpicking02;EnchArmorFortifyLockpicking02 "Fortify Lockpicking" [ENCH:000AD469];of Lockpicking
+Lockpicking03;EnchArmorFortifyLockpicking03 "Fortify Lockpicking" [ENCH:000AD46A];of Major Lockpicking
+Marksman01;EnchArmorFortifyMarksman01 "Fortify Archery" [ENCH:0007A113];of Minor Archery
+Marksman02;EnchArmorFortifyMarksman02 "Fortify Archery" [ENCH:000AD46F];of Archery
+Marksman03;EnchArmorFortifyMarksman03 "Fortify Archery" [ENCH:000AD470];of Major Archery
+OneHanded01;EnchArmorFortifyOneHanded01 "Fortify One-Handed" [ENCH:0007A114];of Minor Wielding
+OneHanded02;EnchArmorFortifyOneHanded02 "Fortify One-Handed" [ENCH:000AD471];of Wielding
+OneHanded03;EnchArmorFortifyOneHanded03 "Fortify One-Handed" [ENCH:000AD472];of Major Wielding
+Pickpocket01;EnchArmorFortifyPickpocket01 "Fortify Pickpocket" [ENCH:0007A115];of Minor Deft Hands
+Pickpocket02;EnchArmorFortifyPickpocket02 "Fortify Pickpocket" [ENCH:000AD473];of Deft Hands
+Pickpocket03;EnchArmorFortifyPickpocket03 "Fortify Pickpocket" [ENCH:000AD474];of Major Deft Hands
+Smithing01;EnchArmorFortifySmithing01 "Fortify Smithing" [ENCH:0007A117];of Minor Smithing
+Smithing02;EnchArmorFortifySmithing02 "Fortify Smithing" [ENCH:000AD477];of Smithing
+Smithing03;EnchArmorFortifySmithing03 "Fortify Smithing" [ENCH:000AD478];of Major Smithing
+TwoHanded01;EnchArmorFortifyTwoHanded01 "Fortify Two-Handed" [ENCH:0007A11B];of Minor Sure Grip
+TwoHanded02;EnchArmorFortifyTwoHanded02 "Fortify Two-Handed" [ENCH:000AD481];of Sure Grip
+TwoHanded03;EnchArmorFortifyTwoHanded03 "Fortify Two-Handed" [ENCH:000AD482];of Major Sure Grip

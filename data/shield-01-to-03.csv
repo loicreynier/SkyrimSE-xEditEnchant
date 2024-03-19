@@ -1,0 +1,15 @@
+Block01;EnchArmorFortifyBlock01 "Fortify Block" [ENCH:0007A108];of MinorBlocking
+Block02;EnchArmorFortifyBlock02 "Fortify Block" [ENCH:000AD4A1];of Blocking
+Block03;EnchArmorFortifyBlock03 "Fortify Block" [ENCH:000AD4A2];of Major Blocking
+ResistFire01;EnchArmorResistFire01 "Resist Fire" [ENCH:0004950B];of Resist Fire
+ResistFire02;EnchArmorResistFire02 "Resist Fire" [ENCH:000AD483];of Warning Fire
+ResistFire03;EnchArmorResistFire03 "Resist Fire" [ENCH:000AD484];of Dwindling Flames
+ResistFrost01;EnchArmorResistFrost01 "Resist Frost" [ENCH:0004950C];of Resist Frost
+ResistFrost02;EnchArmorResistFrost02 "Resist Frost" [ENCH:000AD485];of Warning Frost
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+ResistMagic01;EnchArmorResistMagic01 "Resist Magic" [ENCH:000FC05B];of Resist Magic
+ResistMagic02;EnchArmorResistMagic02 "Resist Magic" [ENCH:000FC05C];of Warning Magic
+ResistMagic03;EnchArmorResistMagic03 "Resist Magic" [ENCH:000FC05D];of Dwindling Magic
+ResistShock01;EnchArmorResistShock01 "Resist Shock" [ENCH:0004950D];of Resist Shock
+ResistShock02;EnchArmorResistShock02 "Resist Shock" [ENCH:000AD487];of Warning Shock
+ResistShock03;EnchArmorResistShock03 "Resist Shock" [ENCH:000AD488];of Dwindling Shock

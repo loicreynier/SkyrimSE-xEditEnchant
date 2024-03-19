@@ -1,0 +1,18 @@
+Carry04;EnchArmorFortifyCarry04 "Fortify Carry Weight" [ENCH:000AD44E];of Brawn
+Carry05;EnchArmorFortifyCarry05 "Fortify Carry Weight" [ENCH:000AD44F];of the Ox
+Carry06;EnchArmorFortifyCarry06 "Fortify Carry Weight" [ENCH:000AD450];of the Mammoth
+ResistFire04;EnchArmorResistFire04 "Resist Fire" [ENCH:000BE028];of Fire Suppression
+ResistFire05;EnchArmorResistFire05 "Resist Fire" [ENCH:000BE029];of Fire Abatement
+ResistFire06;EnchArmorResistFire06 "Resist Fire" [ENCH:000BE02A];of Firewalker
+ResistFrost04;EnchArmorResistFrost04 "Resist Frost" [ENCH:000BE02B];of Frost Suppression
+ResistFrost05;EnchArmorResistFrost05 "Resist Frost" [ENCH:000BE02C];of Frost Abatement
+ResistFrost06;EnchArmorResistFrost06 "Resist Frost" [ENCH:000BE02D];of Warmth
+ResistShock04;EnchArmorResistShock04 "Resist Shock" [ENCH:000BE02E];of Shock Suppression
+ResistShock05;EnchArmorResistShock05 "Resist Shock" [ENCH:000BE02F];of Shock Abatement
+ResistShock06;EnchArmorResistShock06 "Resist Shock" [ENCH:000BE030];of Grounding
+Sneak04;EnchArmorFortifySneak04 "Fortify Sneak" [ENCH:000BE01B];of Eminent Sneaking
+Sneak05;EnchArmorFortifySneak05 "Fortify Sneak" [ENCH:000BE01C];of Extreme Sneaking
+Sneak06;EnchArmorFortifySneak06 "Fortify Sneak" [ENCH:000BE01D];of Peerless Sneaking
+Stamina04;EnchArmorFortifyStamina04 "Fortify Stamina" [ENCH:000BE021];of Eminent Stamina
+Stamina05;EnchArmorFortifyStamina05 "Fortify Stamina" [ENCH:000BE022];of Extreme Stamina
+Stamina06;EnchArmorFortifyStamina06 "Fortify Stamina" [ENCH:000BE023];of Peerless Stamina

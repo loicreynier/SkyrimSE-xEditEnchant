@@ -1,0 +1,36 @@
+Alteration03;EnchArmorFortifyAlteration03 "Fortify Alteration" [ENCH:000AD4A0];of Major Alteration
+Alteration04;EnchArmorFortifyAlteration04 "Fortify Alteration" [ENCH:000BE037];of Extreme lteration
+Alteration05;EnchArmorFortifyAlteration05 "Fortify Alteration" [ENCH:000BE038];of Extreme Alteration
+Conjuration03;EnchArmorFortifyConjuration03 "Fortify Conjuration" [ENCH:000AD454];of Major Conjuring
+Conjuration04;EnchArmorFortifyConjuration04 "Fortify Conjuration" [ENCH:000AD455];of Eminent Conjuring
+Conjuration05;EnchArmorFortifyConjuration05 "Fortify Conjuration" [ENCH:000AD456];of Extreme Conjuring
+Destruction03;EnchArmorFortifyDestruction03 "Fortify Destruction" [ENCH:000AD459];of Major Destruction
+Destruction04;EnchArmorFortifyDestruction04 "Fortify Destruction" [ENCH:000AD45A];of Eminent Destruction
+Destruction05;EnchArmorFortifyDestruction05 "Fortify Destruction" [ENCH:000AD45B];of Extreme Destruction
+Health03;EnchArmorFortifyHealth03 "Fortify Health" [ENCH:000AD462];of Major Health
+Health04;EnchArmorFortifyHealth04 "Fortify Health" [ENCH:000BDFFC];of Eminent Health
+Health05;EnchArmorFortifyHealth05 "Fortify Health" [ENCH:000BDFFD];of Extreme Health
+HealthRegen03;EnchArmorFortifyHealRate03 "Fortify Healing Rate" [ENCH:000AD460];of Mending
+HealthRegen04;EnchArmorFortifyHealRate04 "Fortify Healing Rate" [ENCH:0007A10D];of Revival
+HealthRegen05;EnchArmorFortifyHealRate05 "Fortify Healing Rate" [ENCH:000AD45F];of Regeneration
+HeavyArmor03;EnchArmorFortifyHeavyArmor03 "Fortify Heavy Armor" [ENCH:000AD464];of the Major Knight
+HeavyArmor04;EnchArmorFortifyHeavyArmor04 "Fortify Heavy Armor" [ENCH:000BDFFF];of the Eminent Knight
+HeavyArmor05;EnchArmorFortifyHeavyArmor05 "Fortify Heavy Armor" [ENCH:000BE000];of the Extreme Knight
+Illusion03;EnchArmorFortifyIllusion03 "Fortify Illusion" [ENCH:000AD466];of Major Illusion
+Illusion04;EnchArmorFortifyIllusion04 "Fortify Illusion" [ENCH:000BE002];of Extreme Illusion
+Illusion05;EnchArmorFortifyIllusion05 "Fortify Illusion" [ENCH:000BE003];of Extreme Illusion
+LightArmor03;EnchArmorFortifyLightArmor03 "Fortify Light Armor" [ENCH:000AD468];of the Major Squire
+LightArmor04;EnchArmorFortifyLightArmor04 "Fortify Light Armor" [ENCH:000BE005];of the Eminent Squire
+LightArmor05;EnchArmorFortifyLightArmor05 "Fortify Light Armor" [ENCH:000BE006];of the Extreme Squire
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+ResistFrost04;EnchArmorResistFrost04 "Resist Frost" [ENCH:000BE02B];of Frost Suppression
+ResistFrost05;EnchArmorResistFrost05 "Resist Frost" [ENCH:000BE02C];of Frost Abatement
+Restoration03;EnchArmorFortifyRestoration03 "Fortify Restoration" [ENCH:000AD476];of Major Restoration
+Restoration04;EnchArmorFortifyRestoration04 "Fortify Restoration" [ENCH:000BE015];of Eminent Restoration
+Restoration05;EnchArmorFortifyRestoration05 "Fortify Restoration" [ENCH:000BE016];of Extreme Restoration
+Stamina03;EnchArmorFortifyStamina03 "Fortify Stamina" [ENCH:000AD47E];of Major Stamina
+Stamina04;EnchArmorFortifyStamina04 "Fortify Stamina" [ENCH:000BE021];of Eminent Stamina
+Stamina05;EnchArmorFortifyStamina05 "Fortify Stamina" [ENCH:000BE022];of Extreme Stamina
+StaminaRegen03;EnchArmorFortifyStaminaRate03 "Fortify Stamina Regen" [ENCH:000AD480];of Invigoration
+StaminaRegen04;EnchArmorFortifyStaminaRate04 "Fortify Stamina Regen" [ENCH:0007A11A];of Recuperation
+StaminaRegen05;EnchArmorFortifyStaminaRate05 "Fortify Stamina Regen" [ENCH:000AD47F];of Rejuvenation

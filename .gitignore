@@ -1,0 +1,5 @@
+# Nix generated
+/.pre-commit-config.yaml
+
+# Builds
+*.zip

@@ -1,0 +1,27 @@
+Alchemy03;EnchArmorFortifyAlchemy03 "Fortify Alchemy" [ENCH:0008B65E];of Major Alchemy
+Alchemy04;EnchArmorFortifyAlchemy04 "Fortify Alchemy" [ENCH:0008B65F];of Eminent Alchemy
+Alchemy05;EnchArmorFortifyAlchemy05 "Fortify Alchemy" [ENCH:0008B660];of Extreme Alchemy
+Alteration03;EnchArmorFortifyAlteration03 "Fortify Alteration" [ENCH:000AD4A0];of Major Alteration
+Alteration04;EnchArmorFortifyAlteration04 "Fortify Alteration" [ENCH:000BE037];of Eminent Alteration
+Alteration05;EnchArmorFortifyAlteration05 "Fortify Alteration" [ENCH:000BE038];of Extreme Alteration
+Conjuration03;EnchArmorFortifyConjuration03 "Fortify Conjuration" [ENCH:000AD454];of Major Conjuring
+Conjuration04;EnchArmorFortifyConjuration04 "Fortify Conjuration" [ENCH:000AD455];of Eminent Conjuring
+Conjuration05;EnchArmorFortifyConjuration05 "Fortify Conjuration" [ENCH:000AD456];of Extreme Conjuring
+Lockpicking03;EnchArmorFortifyLockpicking03 "Fortify Lockpicking" [ENCH:000AD46A];of Major Lockpicking
+Lockpicking04;EnchArmorFortifyLockpicking04 "Fortify Lockpicking" [ENCH:000BE008];of Eminent Lockpicking
+Lockpicking05;EnchArmorFortifyLockpicking05 "Fortify Lockpicking" [ENCH:000BE009];of Extreme Lockpicking
+Marksman03;EnchArmorFortifyMarksman03 "Fortify Archery" [ENCH:000AD470];of Major Archery
+Marksman04;EnchArmorFortifyMarksman04 "Fortify Archery" [ENCH:000BE00C];of Eminent Archery
+Marksman05;EnchArmorFortifyMarksman05 "Fortify Archery" [ENCH:000BE00D];of Extreme Archery
+OneHanded03;EnchArmorFortifyOneHanded03 "Fortify One-Handed" [ENCH:000AD472];of Major Wielding
+OneHanded04;EnchArmorFortifyOneHanded04 "Fortify One-Handed" [ENCH:000BE00F];of Eminent Wielding
+OneHanded05;EnchArmorFortifyOneHanded05 "Fortify One-Handed" [ENCH:000BE010];of Extreme Wielding
+Pickpocket03;EnchArmorFortifyPickpocket03 "Fortify Pickpocket" [ENCH:000AD474];of Major Deft Hands
+Pickpocket04;EnchArmorFortifyPickpocket04 "Fortify Pickpocket" [ENCH:000BE012];of Eminent Deft Hands
+Pickpocket05;EnchArmorFortifyPickpocket05 "Fortify Pickpocket" [ENCH:000BE013];of Extreme Deft Hands
+Smithing03;EnchArmorFortifySmithing03 "Fortify Smithing" [ENCH:000AD478];of Major Smithing
+Smithing04;EnchArmorFortifySmithing04 "Fortify Smithing" [ENCH:000BE018];of Eminent Smithing
+Smithing05;EnchArmorFortifySmithing05 "Fortify Smithing" [ENCH:000BE019];of Extreme Smithing
+TwoHanded03;EnchArmorFortifyTwoHanded03 "Fortify Two-Handed" [ENCH:000AD482];of Major Sure Grip
+TwoHanded04;EnchArmorFortifyTwoHanded04 "Fortify Two-Handed" [ENCH:000BE025];of Eminent Sure Grip
+TwoHanded05;EnchArmorFortifyTwoHanded05 "Fortify Two-Handed" [ENCH:000BE026];of Extreme Sure Grip

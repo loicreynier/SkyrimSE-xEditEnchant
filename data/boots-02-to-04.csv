@@ -1,0 +1,18 @@
+Carry02;EnchArmorFortifyCarry02 "Fortify Carry Weight" [ENCH:000AD44C];of Hauling
+Carry03;EnchArmorFortifyCarry03 "Fortify Carry Weight" [ENCH:000AD44D];of Strength
+Carry04;EnchArmorFortifyCarry04 "Fortify Carry Weight" [ENCH:000AD44E];of Brawn
+ResistFire02;EnchArmorResistFire02 "Resist Fire" [ENCH:000AD483];of Warning Fire
+ResistFire03;EnchArmorResistFire03 "Resist Fire" [ENCH:000AD484];of Dwindling Flames
+ResistFire04;EnchArmorResistFire04 "Resist Fire" [ENCH:000BE028];of Fire Suppression
+ResistFrost02;EnchArmorResistFrost02 "Resist Frost" [ENCH:000AD485];of Warning Frost
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+ResistFrost04;EnchArmorResistFrost04 "Resist Frost" [ENCH:000BE02B];of Frost Suppression
+ResistShock02;EnchArmorResistShock02 "Resist Shock" [ENCH:000AD487];of Warning Shock
+ResistShock03;EnchArmorResistShock03 "Resist Shock" [ENCH:000AD488];of Dwindling Shock
+ResistShock04;EnchArmorResistShock04 "Resist Shock" [ENCH:000BE02E];of Shock Suppression
+Sneak02;EnchArmorFortifySneak02 "Fortify Sneak" [ENCH:000AD479];of Sneaking
+Sneak03;EnchArmorFortifySneak03 "Fortify Sneak" [ENCH:000AD47A];of Major Sneaking
+Sneak04;EnchArmorFortifySneak04 "Fortify Sneak" [ENCH:000BE01B];of Eminent Sneaking
+Stamina02;EnchArmorFortifyStamina02 "Fortify Stamina" [ENCH:000AD47D];of Stamina
+Stamina03;EnchArmorFortifyStamina03 "Fortify Stamina" [ENCH:000AD47E];of Major Stamina
+Stamina04;EnchArmorFortifyStamina04 "Fortify Stamina" [ENCH:000BE021];of Eminent Stamina

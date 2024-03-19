@@ -1,0 +1,36 @@
+AbsorbHealth03;EnchWeaponAbsorbHealth03 "Absorb Health" [ENCH:000AA15A];of Consuming;1500
+AbsorbHealth04;EnchWeaponAbsorbHealth04 "Absorb Health" [ENCH:000AA15B];of Devouring;2000
+AbsorbHealth05;EnchWeaponAbsorbHealth05 "Absorb Health" [ENCH:000AA15C];of Leeching;2500
+AbsorbMagicka02;EnchWeaponAbsorbMagicka02 "Absorb Magicka" [ENCH:000AA158];of Siphoning;1000
+AbsorbMagicka03;EnchWeaponAbsorbMagicka03 "Absorb Magicka" [ENCH:000AA15E];of Harrowing;1500
+AbsorbMagicka04;EnchWeaponAbsorbMagicka04 "Absorb Magicka" [ENCH:000AA15F];of Winnowing;2000
+AbsorbStamina02;EnchWeaponAbsorbStamina02 "Absorb Stamina" [ENCH:000AA159];of Gleaning;1000
+AbsorbStamina03;EnchWeaponAbsorbStamina03 "Absorb Stamina" [ENCH:000AA162];of Reaping;1500
+AbsorbStamina04;EnchWeaponAbsorbStamina04 "Absorb Stamina" [ENCH:000AA163];of Harvesting;2000
+Banish04;EnchWeaponBanish04 "Banish" [ENCH:000ACBB7];of Banishing;2000
+Chaos04;DLC2EnchWeaponChaosDamage04 "Chaos Damage" [ENCH:0402C470];of High Chaos;2000
+Fear02;EnchWeaponFear02 "Fear" [ENCH:0005B466];of Cowardice;1000
+Fear03;EnchWeaponFear03 "Fear" [ENCH:0005B467];of Fear;1500
+Fear04;EnchWeaponFear04 "Fear" [ENCH:0005B468];of Despair;2000
+Fire02;EnchWeaponFireDamage02 "Fire Damage" [ENCH:00045C2A];of Burning;1000
+Fire03;EnchWeaponFireDamage03 "Fire Damage" [ENCH:00045C2C];of Scorching;1500
+Fire04;EnchWeaponFireDamage04 "Fire Damage" [ENCH:00045C2D];of Fire;2000
+Frost02;EnchWeaponFrostDamage02 "Frost Damage" [ENCH:00045C37];of Frost;1000
+Frost03;EnchWeaponFrostDamage03 "Frost Damage" [ENCH:00045C39];of Ice;1500
+Frost04;EnchWeaponFrostDamage04 "Frost Damage" [ENCH:00045D4B];of Freezing;2000
+MagickaDamage02;EnchWeaponMagickaDamage02 "Magicka Damage" [ENCH:0005B454];of Draining;1000
+MagickaDamage03;EnchWeaponMagickaDamage03 "Magicka Damage" [ENCH:0005B455];of Diminishing;1500
+MagickaDamage04;EnchWeaponMagickaDamage04 "Magicka Damage" [ENCH:0005B456];of Depleting;2000
+Paralyze04;EnchWeaponParalysis04 "Paralyze" [ENCH:000ACBBA];of Stunning;2000
+Shock02;EnchWeaponShockDamage02 "Shock Damage" [ENCH:00045D97];of Arcing;1000
+Shock03;EnchWeaponShockDamage03 "Shock Damage" [ENCH:00045F6F];of Shocks;1500
+Shock04;EnchWeaponShockDamage04 "Shock Damage" [ENCH:00045F89];of Thunderbolts;2000
+SoulTrap02;EnchWeaponSoulTrap02 "Soul Trap" [ENCH:0005B460];of Soul Snares;1000
+SoulTrap03;EnchWeaponSoulTrap03 "Soul Trap" [ENCH:0005B461];of Binding;1500
+SoulTrap04;EnchWeaponSoulTrap04 "Soul Trap" [ENCH:0005B462];of Animus;2000
+StaminaDamage02;EnchWeaponStaminaDamage02 "Stamina Damage" [ENCH:0005B45A];of Weariness;1000
+StaminaDamage03;EnchWeaponStaminaDamage03 "Stamina Damage" [ENCH:0005B45B];of Torpor;1500
+StaminaDamage04;EnchWeaponStaminaDamage04 "Stamina Damage" [ENCH:0005B45C];of Debilitation;2000
+TurnUndead02;EnchWeaponTurnUndead02 "Turn Undead" [ENCH:0005B46D];Sanctified ;1000
+TurnUndead03;EnchWeaponTurnUndead03 "Turn Undead" [ENCH:0005B46E];Reverent ;1500
+TurnUndead04;EnchWeaponTurnUndead04 "Turn Undead" [ENCH:0005B46F];Hallowed ;2000

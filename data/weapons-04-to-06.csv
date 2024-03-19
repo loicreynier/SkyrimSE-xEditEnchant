@@ -1,0 +1,42 @@
+AbsorbHealth04;EnchWeaponAbsorbHealth04 "Absorb Health" [ENCH:000AA15B];of Devouring;2000
+AbsorbHealth05;EnchWeaponAbsorbHealth05 "Absorb Health" [ENCH:000AA15C];of Leeching;2500
+AbsorbHealth06;EnchWeaponAbsorbHealth06 "Absorb Health" [ENCH:000AA15D];of the Vampire;3000
+AbsorbMagicka04;EnchWeaponAbsorbMagicka04 "Absorb Magicka" [ENCH:000AA15F];of Winnowing;2000
+AbsorbMagicka05;EnchWeaponAbsorbMagicka05 "Absorb Magicka" [ENCH:000AA160];of Evoking;2500
+AbsorbMagicka06;EnchWeaponAbsorbMagicka06 "Absorb Magicka" [ENCH:000AA161];of the Sorcerer;3000
+AbsorbStamina04;EnchWeaponAbsorbStamina04 "Absorb Stamina" [ENCH:000AA163];of Harvesting;2000
+AbsorbStamina05;EnchWeaponAbsorbStamina05 "Absorb Stamina" [ENCH:000AA164];of Garnering;2500
+AbsorbStamina06;EnchWeaponAbsorbStamina06 "Absorb Stamina" [ENCH:000AA165];of Subsuming;3000
+Banish04;EnchWeaponBanish04 "Banish" [ENCH:000ACBB7];of Banishing;2000
+Banish05;EnchWeaponBanish05 "Banish" [ENCH:000ACBB8];of Expelling;2500
+Banish06;EnchWeaponBanish06 "Banish" [ENCH:000ACBB9];of Annihilating;3000
+Chaos04;DLC2EnchWeaponChaosDamage04 "Chaos Damage" [ENCH:0402C470];of High Chaos;2000
+Chaos05;DLC2EnchWeaponChaosDamage05 "Chaos Damage" [ENCH:0402C471];of Extreme Chaos;2500
+Chaos06;DLC2EnchWeaponChaosDamage06 "Chaos Damage" [ENCH:0402C472];of Ultimate Chaos;3000
+Fear04;EnchWeaponFear04 "Fear" [ENCH:0005B468];of Despair;2000
+Fear05;EnchWeaponFear05 "Fear" [ENCH:0005B469];of Dread;2500
+Fear06;EnchWeaponFear06 "Fear" [ENCH:0005B46A];of Terror;3000
+Fire04;EnchWeaponFireDamage04 "Fire Damage" [ENCH:00045C2D];of Fire;2000
+Fire05;EnchWeaponFireDamage05 "Fire Damage" [ENCH:00045C30];of the Blaze;2500
+Fire06;EnchWeaponFireDamage06 "Fire Damage" [ENCH:00045C35];of the Inferno;3000
+Frost04;EnchWeaponFrostDamage04 "Frost Damage" [ENCH:00045D4B];of Freezing;2000
+Frost05;EnchWeaponFrostDamage05 "Frost Damage" [ENCH:00045D56];of Blizzards;2500
+Frost06;EnchWeaponFrostDamage06 "Frost Damage" [ENCH:00045D58];of Winter;3000
+MagickaDamage04;EnchWeaponMagickaDamage04 "Magicka Damage" [ENCH:0005B456];of Depleting;2000
+MagickaDamage05;EnchWeaponMagickaDamage05 "Magicka Damage" [ENCH:0005B457];of Enervating;2500
+MagickaDamage06;EnchWeaponMagickaDamage06 "Magicka Damage" [ENCH:0005B458];of Nullifying;3000
+Paralyze04;EnchWeaponParalysis04 "Paralyze" [ENCH:000ACBBA];of Stunning;2000
+Paralyze05;EnchWeaponParalysis05 "Paralyze" [ENCH:000ACBBB];of Immobilizing;2500
+Paralyze06;EnchWeaponParalysis06 "Paralyze" [ENCH:000ACBBC];of Petrifying;3000
+Shock04;EnchWeaponShockDamage04 "Shock Damage" [ENCH:00045F89];of Thunderbolts;2000
+Shock05;EnchWeaponShockDamage05 "Shock Damage" [ENCH:00045F8D];of Lightning;2500
+Shock06;EnchWeaponShockDamage06 "Shock Damage" [ENCH:00045F9E];of Storms;3000
+SoulTrap04;EnchWeaponSoulTrap04 "Soul Trap" [ENCH:0005B462];of Animus;2000
+SoulTrap05;EnchWeaponSoulTrap05 "Soul Trap" [ENCH:0005B463];of Malediction;2500
+SoulTrap06;EnchWeaponSoulTrap06 "Soul Trap" [ENCH:0005B464];of Damnation;3000
+StaminaDamage04;EnchWeaponStaminaDamage04 "Stamina Damage" [ENCH:0005B45C];of Debilitation;2000
+StaminaDamage05;EnchWeaponStaminaDamage05 "Stamina Damage" [ENCH:0005B45D];of Lethargy;2500
+StaminaDamage06;EnchWeaponStaminaDamage06 "Stamina Damage" [ENCH:0005B45E];of Exhaustion;3000
+TurnUndead04;EnchWeaponTurnUndead04 "Turn Undead" [ENCH:0005B46F];Hallowed ;2000
+TurnUndead05;EnchWeaponTurnUndead05 "Turn Undead" [ENCH:0005B470];Virtuous ;2500
+TurnUndead06;EnchWeaponTurnUndead06 "Turn Undead" [ENCH:000BF3F5];Holy ;3000

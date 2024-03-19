@@ -1,0 +1,54 @@
+Alchemy01;EnchArmorFortifyAlchemy01 "Fortify Alchemy" [ENCH:0008B65B];of Minor Alchemy
+Alchemy02;EnchArmorFortifyAlchemy02 "Fortify Alchemy" [ENCH:0008B65D];of Alchemy
+Alchemy03;EnchArmorFortifyAlchemy03 "Fortify Alchemy" [ENCH:0008B65E];of Major Alchemy
+Alchemy04;EnchArmorFortifyAlchemy04 "Fortify Alchemy" [ENCH:0008B65F];of Eminent Alchemy
+Alchemy05;EnchArmorFortifyAlchemy05 "Fortify Alchemy" [ENCH:0008B660];of Extreme Alchemy
+Alchemy06;EnchArmorFortifyAlchemy06 "Fortify Alchemy" [ENCH:0008B661];of Peerless Alchemy
+Alteration01;EnchArmorFortifyAlteration01 "Fortify Alteration" [ENCH:0007A107];of Minor Alteration
+Alteration02;EnchArmorFortifyAlteration02 "Fortify Alteration" [ENCH:000AD49F];of Alteration
+Alteration03;EnchArmorFortifyAlteration03 "Fortify Alteration" [ENCH:000AD4A0];of Major Alteration
+Alteration04;EnchArmorFortifyAlteration04 "Fortify Alteration" [ENCH:000BE037];of Eminent Alteration
+Alteration05;EnchArmorFortifyAlteration05 "Fortify Alteration" [ENCH:000BE038];of Extreme Alteration
+Alteration06;EnchArmorFortifyAlteration06 "Fortify Alteration" [ENCH:000BE039];of Peerless Alteration
+Conjuration01;EnchArmorFortifyConjuration01 "Fortify Conjuration" [ENCH:0007A10A];of Minor Conjuring
+Conjuration02;EnchArmorFortifyConjuration02 "Fortify Conjuration" [ENCH:000AD453];of Conjuring
+Conjuration03;EnchArmorFortifyConjuration03 "Fortify Conjuration" [ENCH:000AD454];of Major Conjuring
+Conjuration04;EnchArmorFortifyConjuration04 "Fortify Conjuration" [ENCH:000AD455];of Eminent Conjuring
+Conjuration05;EnchArmorFortifyConjuration05 "Fortify Conjuration" [ENCH:000AD456];of Extreme Conjuring
+Conjuration06;EnchArmorFortifyConjuration06 "Fortify Conjuration" [ENCH:000AD457];of Peerless Conjuring
+Destruction01;EnchArmorFortifyDestruction01 "Fortify Destruction" [ENCH:0007A10B];of Minor Destruction
+Destruction02;EnchArmorFortifyDestruction02 "Fortify Destruction" [ENCH:000AD458];of Destruction
+Destruction03;EnchArmorFortifyDestruction03 "Fortify Destruction" [ENCH:000AD459];of Major Destruction
+Destruction04;EnchArmorFortifyDestruction04 "Fortify Destruction" [ENCH:000AD45A];of Eminent Destruction
+Destruction05;EnchArmorFortifyDestruction05 "Fortify Destruction" [ENCH:000AD45B];of Extreme Destruction
+Destruction06;EnchArmorFortifyDestruction06 "Fortify Destruction" [ENCH:000AD45C];of Peerless Destruction
+Destruction06;EnchArmorFortifyDestruction06 "Fortify Destruction" [ENCH:000AD45C];of Peerless Destruction
+Illusion01;EnchArmorFortifyIllusion01 "Fortify Illusion" [ENCH:0007A10F];of Minor Illusion
+Illusion02;EnchArmorFortifyIllusion01 "Fortify Illusion" [ENCH:0007A10F];of Illusion
+Illusion03;EnchArmorFortifyIllusion03 "Fortify Illusion" [ENCH:000AD466];of Major Illusion
+Illusion04;EnchArmorFortifyIllusion04 "Fortify Illusion" [ENCH:000BE002];of Eminent Illusion
+Illusion05;EnchArmorFortifyIllusion05 "Fortify Illusion" [ENCH:000BE003];of Extreme Illusion
+Illusion06;EnchArmorFortifyIllusion06 "Fortify Illusion" [ENCH:000BE004];of Peerless Illusion
+Magicka01;EnchArmorFortifyMagicka01 "Fortify Magicka" [ENCH:00049508];of Minor Magicka
+Magicka02;EnchArmorFortifyMagicka02 "Fortify Magicka" [ENCH:000AD46B];of Magicka
+Magicka03;EnchArmorFortifyMagicka03 "Fortify Magicka" [ENCH:000AD46C];of Major Magicka
+Magicka04;EnchArmorFortifyMagicka04 "Fortify Magicka" [ENCH:000B7A31];of Eminent Magicka
+Magicka05;EnchArmorFortifyMagicka05 "Fortify Magicka" [ENCH:000B7A32];of Extreme Magicka
+Magicka06;EnchArmorFortifyMagicka06 "Fortify Magicka" [ENCH:000B7A33];of Peerless Magicka
+MagickaRegen03;EnchArmorFortifyMagickaRate03 "Fortify Magicka Rate" [ENCH:000AD46E];of Recharging
+MagickaRegen04;EnchArmorFortifyMagickaRate04 "Fortify Magicka Rate" [ENCH:0007A112];of Replenishing
+MagickaRegen05;EnchArmorFortifyMagickaRate05 "Fortify Magicka Rate" [ENCH:000AD46D];of Resurgence
+MagickaRegen06;EnchArmorFortifyMagickaRate06 "Fortify Magicka Rate" [ENCH:000BE00B];of Recovery
+Marksman01;EnchArmorFortifyMarksman01 "Fortify Archery" [ENCH:0007A113];of Minor Archery
+Marksman02;EnchArmorFortifyMarksman02 "Fortify Archery" [ENCH:000AD46F];of Archery
+Marksman03;EnchArmorFortifyMarksman03 "Fortify Archery" [ENCH:000AD470];of Major Archery
+Marksman04;EnchArmorFortifyMarksman04 "Fortify Archery" [ENCH:000BE00C];of Eminent Archery
+Marksman05;EnchArmorFortifyMarksman05 "Fortify Archery" [ENCH:000BE00D];of Extreme Archery
+Marksman06;EnchArmorFortifyMarksman06 "Fortify Archery" [ENCH:000BE00E];of Peerless Archery
+Restoration01;EnchArmorFortifyRestoration01 "Fortify Restoration" [ENCH:0007A116];of Minor Restoration
+Restoration02;EnchArmorFortifyRestoration02 "Fortify Restoration" [ENCH:000AD475];of Restoration
+Restoration03;EnchArmorFortifyRestoration03 "Fortify Restoration" [ENCH:000AD476];of Major Restoration
+Restoration04;EnchArmorFortifyRestoration04 "Fortify Restoration" [ENCH:000BE015];of Eminent Restoration
+Restoration05;EnchArmorFortifyRestoration05 "Fortify Restoration" [ENCH:000BE016];of Extreme Restoration
+Restoration06;EnchArmorFortifyRestoration06 "Fortify Restoration" [ENCH:000BE017];of Peerless Restoration
+Waterbreathing01;EnchArmorWaterbreathing "Waterbreathing" [ENCH:00092A76];of Waterbreathing

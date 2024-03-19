@@ -1,0 +1,30 @@
+Block01;EnchArmorFortifyBlock01 "Fortify Block" [ENCH:0007A108];of MinorBlocking
+Block02;EnchArmorFortifyBlock02 "Fortify Block" [ENCH:000AD4A1];of Blocking
+Block03;EnchArmorFortifyBlock03 "Fortify Block" [ENCH:000AD4A2];of Major Blocking
+Block04;EnchArmorFortifyBlock04 "Fortify Block" [ENCH:000BE034];of Extreme Blocking
+Block05;EnchArmorFortifyBlock05 "Fortify Block" [ENCH:000BE035];of Eminent Blocking
+Block06;EnchArmorFortifyBlock06 "Fortify Block" [ENCH:000BE036];of Peerless Blocking
+ResistFire01;EnchArmorResistFire01 "Resist Fire" [ENCH:0004950B];of Resist Fire
+ResistFire02;EnchArmorResistFire02 "Resist Fire" [ENCH:000AD483];of Warning Fire
+ResistFire03;EnchArmorResistFire03 "Resist Fire" [ENCH:000AD484];of Dwindling Flames
+ResistFire04;EnchArmorResistFire04 "Resist Fire" [ENCH:000BE028];of Fire Suppression
+ResistFire05;EnchArmorResistFire05 "Resist Fire" [ENCH:000BE029];of Fire Abatement
+ResistFire06;EnchArmorResistFire06 "Resist Fire" [ENCH:000BE02A];of Firewalker
+ResistFrost01;EnchArmorResistFrost01 "Resist Frost" [ENCH:0004950C];of Resist Frost
+ResistFrost02;EnchArmorResistFrost02 "Resist Frost" [ENCH:000AD485];of Warning Frost
+ResistFrost03;EnchArmorResistFrost03 "Resist Frost" [ENCH:000AD486];of Dwindling Frost
+ResistFrost04;EnchArmorResistFrost04 "Resist Frost" [ENCH:000BE02B];of Frost Suppression
+ResistFrost05;EnchArmorResistFrost05 "Resist Frost" [ENCH:000BE02C];of Frost Abatement
+ResistFrost06;EnchArmorResistFrost06 "Resist Frost" [ENCH:000BE02D];of Warmth
+ResistMagic01;EnchArmorResistMagic01 "Resist Magic" [ENCH:000FC05B];of Resist Magic
+ResistMagic02;EnchArmorResistMagic02 "Resist Magic" [ENCH:000FC05C];of Warning Magic
+ResistMagic03;EnchArmorResistMagic03 "Resist Magic" [ENCH:000FC05D];of Dwindling Magic
+ResistMagic04;EnchArmorResistMagic04 "Resist Magic" [ENCH:000FC05E];of Magic Suppression
+ResistMagic05;EnchArmorResistMagic05 "Resist Magic" [ENCH:000FC05F];of Magic Abatement
+ResistMagic06;EnchArmorResistMagic06 "Resist Magic" [ENCH:000FC060];of Nullification
+ResistShock01;EnchArmorResistShock01 "Resist Shock" [ENCH:0004950D];of Resist Shock
+ResistShock02;EnchArmorResistShock02 "Resist Shock" [ENCH:000AD487];of Warning Shock
+ResistShock03;EnchArmorResistShock03 "Resist Shock" [ENCH:000AD488];of Dwindling Shock
+ResistShock04;EnchArmorResistShock04 "Resist Shock" [ENCH:000BE02E];of Shock Suppression
+ResistShock05;EnchArmorResistShock05 "Resist Shock" [ENCH:000BE02F];of Shock Abatement
+ResistShock06;EnchArmorResistShock06 "Resist Shock" [ENCH:000BE030];of Grounding
