@@ -3,7 +3,8 @@ data_dir         := data
 edit_scripts_dir := Edit Scripts
 csvs_dir         := Skyrim Enchantments CSVs
 name             := xEditEnchant
-release          := $(name)-$(shell git describe --always --dirty).zip
+dist_dir         := dist
+release          := $(dist_dir)/$(name)-$(shell git describe --always --dirty).zip
 
 all: bbcode release
 
@@ -12,7 +13,7 @@ bbcode: description.bbcode
 release: $(release)
 
 $(release):
-	@mkdir -p "$(edit_scripts_dir)" "$(csvs_dir)"
+	@mkdir -p "$(dist_dir)" "$(edit_scripts_dir)" "$(csvs_dir)"
 	@cp $(src_dir)/*.pas "$(edit_scripts_dir)"
 	@cp $(data_dir)/*.csv "$(csvs_dir)"
 	@zip $@ "$(edit_scripts_dir)"/*.pas "$(csvs_dir)"/*.csv
